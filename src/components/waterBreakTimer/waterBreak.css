@@ -1,0 +1,58 @@
+.water-break-wrapper{
+  max-width: 50%;
+  width: 100%;
+  padding: 10px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.set-water-break-wrapper{
+  margin-bottom: 80px;
+  color: black;
+  font-family: Englebert, Arial;
+  font-size: 18px;
+}
+
+.set-water-break{
+  display: flex;
+  align-content: center;
+}
+
+.water-break-timer{
+  display: flex;
+  padding-left: 20px;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+}
+
+.timer-img:hover{
+  background:#ffebcd;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.water-break-control{
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notify-text-water{
+    position: absolute;
+    width: 200px;
+    right: -200px;
+    top: -55px;
+}
+
+.sticky-note-orange {
+	background: #FFBDA3;
+	-webkit-transform: rotate(1deg);
+	-moz-transform: rotate(1deg);
+	-o-transform: rotate(1deg);
+	-ms-transform: rotate(1deg);
+	transform: rotate(1deg);
+}

@@ -1,0 +1,26 @@
+.todo-wrapper {
+  width: 40%;
+  height: 200px;
+  overflow:auto;
+}
+
+.todo-elements {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.todo-input {
+  width: 100%;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: border-box;
+}
+.todo-checkbox {
+  padding-right: 10px;
+}

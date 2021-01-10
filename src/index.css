@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background:#dabef7c9 !important;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+a{
+  color: antiquewhite !important;
+}
+
+textarea {
+  resize: none;
+}

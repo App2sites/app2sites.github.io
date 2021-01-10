@@ -1,0 +1,60 @@
+.break-wrapper{
+  max-width: 48%;
+  width: 100%;
+  padding: 10px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.break-control-wrapper{
+  margin-bottom: 30px;
+  font-size: 18px;
+    font-family: Englebert, Arial;
+    color: black;
+}
+
+.set-break-wrapper{
+  display: flex;
+  align-content: center; 
+}
+
+.set-break-time{
+  display: flex;
+  padding-left: 20px;
+  justify-content: space-between;
+  align-items: center;
+  color: #000;
+}
+
+.timer-control-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+}
+
+.switch-wrapper{
+  align-items: center;
+}
+
+.timer-icons{
+  width: 30px;
+  height: 20px;
+  margin-right: 20px;
+}
+
+.timer-img:hover{
+  background: aliceblue;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.timer-icons:hover{
+  cursor: pointer;
+}
+
+.set-break-icon{
+  width: 30px;
+}
