@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mama-tool/static/css/main.0385eddc.chunk.css",
+    "main.js": "/mama-tool/static/js/main.da0709e1.chunk.js",
+    "main.js.map": "/mama-tool/static/js/main.da0709e1.chunk.js.map",
+    "runtime-main.js": "/mama-tool/static/js/runtime-main.8f180611.js",
+    "runtime-main.js.map": "/mama-tool/static/js/runtime-main.8f180611.js.map",
+    "static/css/2.e1551933.chunk.css": "/mama-tool/static/css/2.e1551933.chunk.css",
+    "static/js/2.e4e401a4.chunk.js": "/mama-tool/static/js/2.e4e401a4.chunk.js",
+    "static/js/2.e4e401a4.chunk.js.map": "/mama-tool/static/js/2.e4e401a4.chunk.js.map",
+    "index.html": "/mama-tool/index.html",
+    "precache-manifest.e9919ee33081c7f7a136b92756db7139.js": "/mama-tool/precache-manifest.e9919ee33081c7f7a136b92756db7139.js",
+    "service-worker.js": "/mama-tool/service-worker.js",
+    "static/css/2.e1551933.chunk.css.map": "/mama-tool/static/css/2.e1551933.chunk.css.map",
+    "static/css/main.0385eddc.chunk.css.map": "/mama-tool/static/css/main.0385eddc.chunk.css.map",
+    "static/js/2.e4e401a4.chunk.js.LICENSE.txt": "/mama-tool/static/js/2.e4e401a4.chunk.js.LICENSE.txt",
+    "static/media/minus.svg": "/mama-tool/static/media/minus.35493834.svg",
+    "static/media/play.svg": "/mama-tool/static/media/play.ef083f73.svg",
+    "static/media/plus.svg": "/mama-tool/static/media/plus.4874204c.svg",
+    "static/media/stop.svg": "/mama-tool/static/media/stop.e412b71f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f180611.js",
+    "static/css/2.e1551933.chunk.css",
+    "static/js/2.e4e401a4.chunk.js",
+    "static/css/main.0385eddc.chunk.css",
+    "static/js/main.da0709e1.chunk.js"
+  ]
+}
